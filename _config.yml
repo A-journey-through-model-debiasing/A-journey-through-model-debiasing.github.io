@@ -85,9 +85,9 @@ lang: en-GB # Set the site language
 title: "A Journey Through Model Debiasing" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/tutorial_logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Official Website for the ICIAP2025 Tutorial 'A Journey through Model Debiasing: from Methods to Applications'" # Site description and default description, also used in jekyll-seo-tag
-url: "https://resonantfilter.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: "/debiasing-journey-tutorial.github.io"
-repo: "https://github.com/ResonantFilter/debiasing-journey.github.io"
+url: "https://A-journey-throuh-model-debiasing.github.io" # Site url, also used in jekyll-seo-tag
+baseurl: ""
+repo: "https://github.com/A-journey-through-model-debiasing/A-journey-through-model-debiasing.github.io"
 email: "massimiliano.ciranni@edu.unige.it"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
