@@ -6,6 +6,9 @@ excerpt: "In this half-day tutorial, we will provide a general overview of chall
 
 #### Half-Day Tutorial Event @[ICIAP2025](https://sites.google.com/view/iciap25)
 
+- **When:** The event will take place on the 15th of September, from *09:00 AM to 01:00 PM (09:00-13:00)*.
+- **Where:** The tutorial will take place just outside of the Main Conference venue, specifically at *Viale Regina Elena 295, 00185 Rome* 
+
 ### Abstract
 
 Despite the undeniable and steady progress of modern Deep Learning in the last decade, enabling the automation of challenging tasks and enhancing decision-making processes, several issues in the broader applicability of these systems in critical domains (such as healthcare, finance, education, and security) persist. One of the most essential challenges in training reliable deep learning models stems from the inherent tendency of such models to capture and absorb biases present in training data.  
