@@ -62,7 +62,7 @@ Giuseppe Pontillo <br> Department of Radiology and Nuclear Medicine, Amsterdam U
 
 	
 
-Enzo Tartaglione <br> Télécom Paris, Institut Polytechnique de Paris, France <br><br> A brief bio highlighting expertise and contributions to the field. <br> Interests: Model Debiasing, Fairness, Computer Vision
+Enzo Tartaglione <br> Télécom Paris, Institut Polytechnique de Paris, France <br><br> Enzo Tartaglione is an Associate Professor at Télécom Paris, where he is responsible for the equipe Multimedia and he is a Hi!Paris chair holder. He is also a Member of the ELLIS Society, Senior IEEE Member, and Associate Editor of IEEE Transactions on Neural Networks and Learning Systems and of the EURASIP journal on image and video processing. He received the MS degree in Electronic Engineering at Politecnico di Torino in 2015, cum laude. The same year, he also received a magna cum laude MS in electrical and computer engineering at University of Illinois at Chicago. In 2016 he was also awarded the MS in Electronics by Politecnico di Milano, cum laude. In 2019 he obtained a PhD in Physics at Politecnico di Torino, cum laude, with the thesis "From Statistical Physics to Algorithms in Deep Neural Systems". In 2024 he received his Habilitation à Diriger des Recherches from the Institut Polytechnique de Paris, and in 2025 the National Qualification for Full Professor in both Computer Science and Computer Science Engineering. His principal interests include compression and responsible (frugal) AI, privacy-aware learning, data debiasing, and regularization for deep learning. <br> Interests: Model Debiasing, Fairness, Computer Vision
 
 
 ## References
