@@ -7,7 +7,12 @@ excerpt: "In this half-day tutorial, we will provide a general overview of chall
 #### Half-Day Tutorial Event @[ICIAP2025](https://sites.google.com/view/iciap25)
 
 - **When:** The event will take place on the 15th of September, from *09:00 AM to 01:00 PM (09:00-13:00)*.
-- **Where:** The tutorial will take place just outside of the Main Conference venue, specifically at *Viale Regina Elena 295, 00185 Rome* 
+- **Where:** The tutorial will take place just outside of the Main Conference venue, specifically at *Viale Regina Elena 295, 00185 Rome*
+
+### Program 
+
+<img width="3939" height="2050" alt="Image" src="https://github.com/user-attachments/assets/bf66215b-561f-4961-9705-f5f31e299a39" />
+
 
 ### Abstract
 
