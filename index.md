@@ -9,7 +9,7 @@ excerpt: "In this half-day tutorial, we will provide a general overview of chall
 - **When:** The event will take place on the 15th of September, from *09:00 AM to 01:00 PM (09:00-13:00)*.
 - **Where:** The tutorial will take place just outside of the Main Conference venue, specifically at *Viale Regina Elena 295, 00185 Rome*
 
-### Program 
+### Programme
 
 <img width="3939" height="2050" alt="Image" src="https://github.com/user-attachments/assets/bf66215b-561f-4961-9705-f5f31e299a39" />
 
@@ -43,10 +43,6 @@ The final part of the tutorial will be a hands-on activity where consolidated mo
 
 ## Organizers
 
-Photo
-	
-
-Details
 
 Vito Paolo Pastore <br> MaLGa-DIBRIS, University of Genoa; Istituto Italiano di Tecnologia, Italy <br><br> A brief bio highlighting expertise and contributions to the field. <br> Interests: Model Debiasing, Fairness, Computer Vision
 
