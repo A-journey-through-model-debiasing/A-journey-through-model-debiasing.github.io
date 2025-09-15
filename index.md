@@ -4,6 +4,7 @@ feature_image: /assets/logos/ICIAP2025TutorialBanner.jpg
 excerpt: "In this half-day tutorial, we will provide a general overview of challenges in addressing biases from a Deep Learning perspective in contemporary Computer Vision."
 ---
 
+
 #### Half-Day Tutorial Event @[ICIAP2025](https://sites.google.com/view/iciap25)
 
 - **When:** The event will take place on the 15th of September, from *09:00 AM to 01:00 PM (09:00-13:00)*.
@@ -12,6 +13,10 @@ excerpt: "In this half-day tutorial, we will provide a general overview of chall
 ### Programme
 
 <img width="2472" height="1000" alt="Image" src="https://github.com/user-attachments/assets/83e5b3f8-d7b3-4916-8b0c-2706240bd56b" />
+
+### Hands on activity 
+
+The notebook is available from [here](journey-through-model-debiasing.ipynb). 
 
 ### Abstract
 
