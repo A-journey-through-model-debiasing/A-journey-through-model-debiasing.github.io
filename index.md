@@ -14,7 +14,17 @@ excerpt: "In this half-day tutorial, we will provide a general overview of chall
 
 <img width="2472" height="1000" alt="Image" src="https://github.com/user-attachments/assets/83e5b3f8-d7b3-4916-8b0c-2706240bd56b" />
 
-### Hands on activity 
+
+### Material for the tutorial
+
+## Slides
+
+- [Introduction to bias and European regulations](Introduction-to-bias-and-European-regulations.pdf)
+
+- [A journey through bias mitigation approaches](A-journey-through-bias-mitigation-approaches.pdf)
+
+- [Bias Analysis in Artificial Intelligence for medical imaging](Bias-Analysis-in-Artificial-Intelligence-for-medical-imaging.pdf) 
+
 
 The notebook is available from [here](journey-through-model-debiasing.ipynb). 
 
