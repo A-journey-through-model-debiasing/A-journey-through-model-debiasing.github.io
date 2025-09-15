@@ -11,8 +11,7 @@ excerpt: "In this half-day tutorial, we will provide a general overview of chall
 
 ### Programme
 
-<img width="3939" height="2050" alt="Image" src="https://github.com/user-attachments/assets/bf66215b-561f-4961-9705-f5f31e299a39" />
-
+<img width="2472" height="1000" alt="Image" src="https://github.com/user-attachments/assets/83e5b3f8-d7b3-4916-8b0c-2706240bd56b" />
 
 ### Abstract
 
