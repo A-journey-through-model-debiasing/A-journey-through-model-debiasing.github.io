@@ -23,7 +23,7 @@ excerpt: "In this half-day tutorial, we will provide a general overview of chall
 
 - [A journey through bias mitigation approaches](A-journey-through-bias-mitigation-approaches.pdf)
 
-- [Bias Analysis in Artificial Intelligence for medical imaging](Bias-Analysis-in-Artificial-Intelligence-for-medical-imaging.pdf) 
+- [Bias Analysis in Artificial Intelligence for medical imaging](Bias-Analysis-in-Artificial-Intelligence-for-Medical-Imaging.pdf) 
 
 
 The notebook is available from [here](journey-through-model-debiasing.ipynb). 
